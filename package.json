@@ -1,5 +1,5 @@
 {
-  "name": "webpage-to-pdf",
+  "name": "html-to-pdf",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
