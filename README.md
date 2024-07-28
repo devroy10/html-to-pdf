@@ -1,4 +1,4 @@
-# Webpage-to-PDF
+# html-to-PDF
 
 This project is a Node.js script that uses Puppeteer to convert a webpage to a PDF file. The generated PDF is stored in an outputs directory with a filename based on the base URL of the website and a timestamp to ensure uniqueness.
 
