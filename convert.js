@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const puppeteer = require("puppeteer-core");
 const fs = require("fs");
 const path = require("path");
@@ -40,7 +41,7 @@ const { URL } = require("url");
   }
   await page.pdf({
     path: pdfPath,
-    format: "A4",
+    format: "Letter",
     printBackground: true,
   });
 
