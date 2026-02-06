@@ -5,7 +5,7 @@ This project is a Node.js script that uses Puppeteer to convert a webpage to a P
 ## Prerequisites
 
 - **Node.js**: You can download and install [Node.js](https://nodejs.org)
-- **Google Chrome or Chromium**: Ensure you have Google Chrome or Chromium installed. You can download [Chrome](https://google.com/chrome) here
+- **Google Chrome or Chromium**: Ensure you have Google Chrome or Chromium installed. You can download [Chrome](https://google.com/chrome)
 
 ## Installation
 
