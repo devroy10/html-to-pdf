@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 const { URL } = require("url");
 
-(async () => {
+const main = async () => {
   const website = process.argv[2];
 
   if (!website) {
@@ -48,4 +48,6 @@ const { URL } = require("url");
   await browser.close();
 
   console.log(`PDF generated successfully at ${pdfPath}`);
-})();
+};
+
+main();
