@@ -14,21 +14,18 @@ This project is a Node.js script that uses Puppeteer to convert a webpage to a P
 ```sh
 mkdir webpage-to-pdf
 cd webpage-to-pdf
-
 ```
 
 - Initialize the project:
 
 ```sh
 npm install
-
 ```
 
 ## Running the Project
 
 - Open your preferred terminal application
 - Navigate to the Directory:
-
 ```
 cd path/to/webpage-to-pdf
 ```
@@ -39,7 +36,6 @@ To run the script and convert a webpage to a PDF, use the following command:
 
 ```
 node convert.js <website_url>
-
 ```
 
 Replace <website_url> with the URL of the website you want to convert to PDF. For example:
