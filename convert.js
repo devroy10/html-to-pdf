@@ -41,7 +41,7 @@ const { URL } = require("url");
   }
   await page.pdf({
     path: pdfPath,
-    format: "Letter",
+    format: "A3",
     printBackground: true,
   });
 
